@@ -1,2 +1,2 @@
-# charters4textxd2018
-Word embedding models and text data from charter school websites for workshop and hackathon of TextXD 2018 at BIDS, UC Berkeley.
+# Word Embeddings: Workshop and Exploration of Charter Schools
+This repository provides word embeddings and text data for US charter schools. The data come from my web-scraping of charter school websites, and the embeddings were created in the word2vec implementation in gensim. The repository includes a workshop introducing word embedding models with charter school data and hack session starter code for loading and exploring the models. The repository is prepared for TextXD 2018 (http://www.textxd.org/) at the Berkeley Institute for Data Science (BIDS), UC Berkeley. 
