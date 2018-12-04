@@ -1,0 +1,13 @@
+name: textxd2018-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - bokeh
+  - scikit-learn
+  - gensim
+  - numpy
+  - nltk
+  - matplotlib
+  - seaborn
