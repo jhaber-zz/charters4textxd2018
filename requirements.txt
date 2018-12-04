@@ -5,3 +5,4 @@ matplotlib
 gensim
 sklearn
 seaborn
+sklearn
