@@ -1,8 +1,0 @@
-numpy
-nltk
-pandas
-matplotlib
-gensim
-sklearn
-seaborn
-sklearn
