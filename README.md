@@ -26,5 +26,3 @@ If you notice a problem with these materials, please make an issue describing th
 
 ### Acknowledgments
 * Laura Nelson and [the D-Lab](http://dlab.berkeley.edu/)
-
-![D-Lab logo](img/logo.jpg)
